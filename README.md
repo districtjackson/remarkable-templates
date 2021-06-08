@@ -1,6 +1,6 @@
 # remarkable-templates
 
-Free Remarklable Templates, based around James Clear ideas on habits and miscellaneous Dungeons & Dragons character sheets.
+Free Remarklable Templates, based around James Clear's ideas on habits from his Atomic Habits book and miscellaneous Dungeons & Dragons character sheets.
 
 Big thanks to [Jakob Klemm](https://github.com/jakobklemm) for creating the Habit Tracking template.
 
