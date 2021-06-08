@@ -699,7 +699,15 @@
         "Life/organize"
       ]
     },
-	{
+      {
+	  "name": "Habit Tracker",
+	  "filename": "Habit Tracker",
+	  "iconCode": "\ue9fe",
+	  "categories": [
+              "Life/organize"
+	  ]
+      },
+      {
       "name": "D&D - Main Character Sheet",
       "filename": "Dungeons and Dragons - Main Character Sheet",
       "iconCode": "\ue9fe",
